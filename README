@@ -1,0 +1,15 @@
+Here I gather some vocabulary from books I've read.
+Each directoryname stands for a language pair.
+I use the following conventions:
+de:	German
+fr:	French
+en:	English
+nl: 	Dutch
+sw:	Swedish
+it:	Italian
+es:	Spanish
+
+The vocablist are named <BOOK>.txt and kept in a simple text format. 
+I use a semicolon ';' (usually followed by one or several TABs) as seperator between the two languages.
+
+
